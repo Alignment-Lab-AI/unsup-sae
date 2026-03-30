@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pt
+*.pkl
+*.npy
+.DS_Store
+*.swp
+wandb/
+outputs/
+figures/*.png
+!figures/.gitkeep

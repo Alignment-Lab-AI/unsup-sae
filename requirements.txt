@@ -1,0 +1,9 @@
+torch>=2.0
+transformer_lens>=4.0
+sae_lens>=6.0
+datasets>=4.0
+scikit-learn>=1.0
+scipy>=1.10
+numpy>=1.24
+matplotlib>=3.6
+seaborn>=0.12
