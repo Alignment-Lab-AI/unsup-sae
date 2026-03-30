@@ -12,5 +12,4 @@ build/
 *.swp
 wandb/
 outputs/
-figures/*.png
 !figures/.gitkeep
